@@ -65,4 +65,4 @@ message.channel.send(embed)
 }
 })
 
-client.login("TOKENİ BURAYA YAPIŞTIRCAN")
+client.login("MTA4ODUxNDQwMjAwNjg2MzkxMg.GgjoPX.IdzGAlxVNtNUZaQGsvFVOs4blaI7frVmNZKWNo")
